@@ -1,0 +1,22 @@
+{
+  "name": "samplenodeappwithdocker",
+  "version": "1.0.0",
+  "description": "sample node application with docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/machaleb/SampleNodeAppWithDocker.git"
+  },
+  "author": "bhagyashri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/machaleb/SampleNodeAppWithDocker/issues"
+  },
+  "homepage": "https://github.com/machaleb/SampleNodeAppWithDocker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
