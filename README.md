@@ -11,7 +11,7 @@ docker build -t image_name/version .
 docker run -itd -p outsideaccessPort:applicationPort image_name    
 ```
 
-## Once applicationis up and running test it using command  
+## Once application is up and running test it using command  
 ```
 curl http://localhost:outsideaccessPort/
 ```
